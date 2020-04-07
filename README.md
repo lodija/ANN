@@ -19,7 +19,7 @@ I've ever been satisfied with the results.
 
 Hopefully this helps anyone trying to learn how to make a neural network from scratch in MATLAB
 
-In ANN/data I included a .mat file that can be loaded into the autoencoder. The idea is to run all of these in this order:
+In ANN/data I included a .mat file that can be loaded into the autoencoder, but the idea is to run all of these in this order:
 1. ANN.m, save results
 2. Autoencoder.m, load results from 1, save new results
 3. Autoencoder_ANN.m, load results from 2
