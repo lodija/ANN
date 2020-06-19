@@ -3,7 +3,7 @@
 
 This is some code I wrote for developing a neural network from scratch. Any external references are listed in the comments.
 
-Disclaimer: this code is really bad? This is code from my first (and only--so far) implementation of a neural network from scratch. 
+This is code from my first (and only--so far) implementation of a neural network from scratch. 
 I hadn't used any machine learning libraries prior to making this, so it is clear I had no idea how to make this intuitive. I 
 don't have the time to go back and make the functions work beter (like creating a network object and such). The big takeaway is 
 that the top level contains three applications:
